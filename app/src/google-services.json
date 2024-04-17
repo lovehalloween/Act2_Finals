@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355378716850",
+    "project_id": "act2register-52219",
+    "storage_bucket": "act2register-52219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355378716850:android:98c90e11e64d5f832f29ab",
+        "android_client_info": {
+          "package_name": "com.example.act2_finals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD72r4QQSGqZSnewK-Pj9E8fJsNhM9bfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
