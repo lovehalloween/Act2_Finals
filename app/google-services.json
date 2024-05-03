@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828362754675",
+    "project_id": "act4login-register",
+    "storage_bucket": "act4login-register.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828362754675:android:730b06ac940c081982f806",
+        "android_client_info": {
+          "package_name": "com.example.act2_finals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKgHcwoVTCDlwj33AaIYW0QPxShHH3-n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
